@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+.header_div{
+	height:150px;
+	max-height:150px;
+	background-color:black;
+	width:100%;
+	margin: 0; 
+}
+#logo{
+	padding-top:40px;
+	padding-left:100px;
+	width: 25%;
+	color: white;
+	font-size: 50px;
+}
+.body_div{
+	height:1600px;
+	max-height:1600px;
+	background-color:#859d7e;
+	width:100%; 
+}
+#album_name{
+	padding-top:100px;
+	text-align: center;
+	font-size: 60px;
+}
+#album_cover{
+	padding-top:50px;
+	text-align: center;
+	margin: 10px auto 20px;
+    display: block;
+}
+#track_name{
+	text-align: center;
+	padding-top:50px;
+	font-size: 30px;
+}
+#track{
+	text-align: center;
+}
+.footer_div{
+	height:250px;
+	max-height:250px;
+	background-color:black;
+	width:100%; 
+}
